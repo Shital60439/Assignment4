@@ -48,12 +48,9 @@
 </div>
     
     <h1 >Here is home page</h1>
-
     <h1> Welcome to online Shopping</h1><br><br><br>
-   
+   <div class="border-2 bg-cyan-300">
     <h4>Product Card</h4>
-    
-
     <table class="border-2 bg-transparent">
         <thead>
         <th>Product name</th>
@@ -79,6 +76,7 @@
            
         </tbody>  
     </table>
+    </div>
 
     
     <p class="font-semibold">Add Product here</p>
